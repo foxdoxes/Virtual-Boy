@@ -16,6 +16,6 @@
   /* Don't like the colors? Change these HSL variables! */
   --VBaccent: 90 900% 40%;
   --VBaccent-muted: 90 900% 0.2%;
-  --VBaccent-dimmest: 90 900% 50.4%;
+  --VBaccent-dimmest: 90 500% 50.4%;
   --text-shadow-size: 1px; /*Default: 1px*/
 }
